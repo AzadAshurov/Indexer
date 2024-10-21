@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\bin\Debug\net8.0\NullableStructEnumIndexer.exe
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\bin\Debug\net8.0\NullableStructEnumIndexer.deps.json
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\bin\Debug\net8.0\NullableStructEnumIndexer.runtimeconfig.json
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\bin\Debug\net8.0\NullableStructEnumIndexer.dll
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\bin\Debug\net8.0\NullableStructEnumIndexer.pdb
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.AssemblyInfo.cs
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.dll
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\refint\NullableStructEnumIndexer.dll
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.pdb
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\NullableStructEnumIndexer.genruntimeconfig.cache
+C:\Users\Baku\Desktop\NullableStructEnumIndexer\obj\Debug\net8.0\ref\NullableStructEnumIndexer.dll
